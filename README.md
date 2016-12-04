@@ -1,6 +1,6 @@
 # Database of employees
 
-Database of employees in C
+Database of employees in C (student project)
 
 ##Install Requirements
 
